@@ -1,0 +1,4 @@
+Este es un archivo de prueba, se conoce el entorno de GitHub con
+la carga del mismo 
+
+Se confirma dentro de este repositorio a su vez se edita 
